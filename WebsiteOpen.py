@@ -3,6 +3,7 @@ from urllib.request import urlopen
 url="https://fantasy.premierleague.com/statistics"
 #hellowwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 #jabababaaba
+#dgfsdgfjsgjfgdh
 page=urlopen(url)
 
 html_bytes=page.read()
